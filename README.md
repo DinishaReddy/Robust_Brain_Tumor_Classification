@@ -3,7 +3,7 @@
 This project focuses on building a **deep learning-based model** to classify brain tumors from MRI images.  
 Using **CNN, VGG16, and ResNet101 architectures**, I implemented ensemble learning techniques to improve performance, achieving **99.09% accuracy** across four tumor types.  
 
----
+
 
 ## 🚀 Features  
 - Classification of **four tumor types** using MRI images  
@@ -11,7 +11,7 @@ Using **CNN, VGG16, and ResNet101 architectures**, I implemented ensemble learni
 - Applied **ensemble learning** to improve accuracy and reliability  
 - Achieved **99.09% accuracy** on a dataset of **7,000+ MRI images**  
 
----
+
 
 ## 🛠️ Tech Stack  
 - **Python**  
@@ -20,7 +20,7 @@ Using **CNN, VGG16, and ResNet101 architectures**, I implemented ensemble learni
 - **Matplotlib, Seaborn** (for visualization)  
 - **Scikit-learn** (for evaluation metrics)  
 
----
+
 
 ## 📂 Dataset  
 The dataset consists of **7,000+ MRI images** of four brain tumor categories.  
